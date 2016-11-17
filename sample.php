@@ -1,6 +1,8 @@
 <?php 
     $sayHello = 'Hello';
     echo $sayHello;
-    ホゲホゲ
+    
 
+    // user_authブランチ上で機能開発
+    $user = array();
  ?>
